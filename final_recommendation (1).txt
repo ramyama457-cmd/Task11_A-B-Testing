@@ -1,0 +1,10 @@
+
+A/B Testing Result
+
+Control Conversion Rate: 0.138
+Test Conversion Rate: 0.14
+P-value: 1.0
+
+Decision: Fail to Reject H0 (Not Significant)
+
+Business Recommendation:
